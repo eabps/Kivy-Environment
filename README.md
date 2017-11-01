@@ -39,7 +39,6 @@ $ pipenv run python
 ```
 ```py
 import kivy
-
 print(kivy.__version__)
 ```
 [**See installation on Linux in Kivy Documentation**](https://kivy.org/docs/installation/installation-linux.html)
