@@ -14,6 +14,10 @@ $ sudo apt-get install libav-tools
 ```
 
 **Install Python Virtual Environment** - We will use [**pipenv**](https://docs.pipenv.org/) but feel free to use [**venv**](https://docs.python.org/3/library/venv.html#module-venv), [**virtualenv**](https://virtualenv.pypa.io/en/stable/) or [**virtualenvwrap**](https://virtualenvwrapper.readthedocs.io/en/latest/).
+In project directory, create Python3 Virtual Enviroment: 
+```sh
+$ sudo pip install pipenv
+```
 
 In project directory, create Python3 Virtual Enviroment: 
 ```sh
