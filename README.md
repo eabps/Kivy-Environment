@@ -25,7 +25,7 @@ In your _project directory_, create Python3 Virtual Enviroment:
 ```sh
 $ pipenv --three
 ```
-Install [**Cython**](http://cython.org/). **Warning:** [**See correct version reference in Kivy documentation**](https://kivy.org/docs/installation/installation-linux.html#cython).
+Install [**Cython**](http://cython.org/). **Warning:** [**See correct version reference in Kivy documentation**](https://kivy.org/doc/stable/installation/deps-cython.html).
 ```sh
 $ pipenv install Cython==0.25
 ```
